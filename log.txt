@@ -1,0 +1,7 @@
+ 05:01:03 up 53 min,  1 user,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user pts/0    24-32-231-117.pl 04:34    7.00s  0.03s  0.00s sshd: ec2-user 
+ec2-user pts/0        24-32-231-117.pl Thu Sep 10 04:34   still logged in   
+reboot   system boot  4.14.193-113.317 Thu Sep 10 04:07 - 05:02  (00:54)    
+
+wtmp begins Thu Sep 10 04:07:56 2020
